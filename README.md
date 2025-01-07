@@ -14,7 +14,7 @@ A simple movie search website that allows users to search for movies and view ba
 
 ## Live Demo
 
-[View the live demo here](https://your-deployed-url.com)
+[View the live demo here](https://movie-search-khaki-zeta.vercel.app/)
 
 ## Technologies Used
 
